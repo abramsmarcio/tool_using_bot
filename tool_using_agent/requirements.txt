@@ -1,0 +1,6 @@
+langchain_groq
+dotenv
+requests
+langchain_core
+langchain
+requests
